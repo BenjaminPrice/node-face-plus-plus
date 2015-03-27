@@ -1,5 +1,8 @@
 # face-plus-plus
 
+  [![NPM Version][npm-image]][npm-url]
+  [![NPM Downloads][downloads-image]][downloads-url]
+
 [face-plus-plus]() is a node client for the [faceplusplus.com](http://faceplusplus.com)([CN](http://faceplusplus.com.cn)) API
 
 ## Version: 0.0.1
@@ -81,3 +84,12 @@
         console.log(res);
     });
 ```
+
+## License
+
+  [MIT](LICENSE)
+
+[npm-image]: https://img.shields.io/npm/v/face-plus-plus.svg
+[npm-url]: https://npmjs.org/package/face-plus-plus
+[downloads-image]: https://img.shields.io/npm/dm/face-plus-plus.svg
+[downloads-url]: https://npmjs.org/package/face-plus-plus
