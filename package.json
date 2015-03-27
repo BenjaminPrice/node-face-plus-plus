@@ -34,7 +34,6 @@
     }
   ],
   "dependencies": {
-    "datauri": "^0.6.0",
     "qs": "^2.4.1",
     "request": "^2.54.0"
   },
