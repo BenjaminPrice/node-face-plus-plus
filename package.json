@@ -1,0 +1,42 @@
+{
+  "name": "face-plus-plus",
+  "description": "Node client for faceplusplus.com API",
+  "version": "0.0.1",
+  "keywords": [
+    "faceplusplus",
+    "face",
+    "facial recognition",
+    "facial"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/benjaminprice/node-face-plus-plus.git"
+  },
+  "author": {
+    "name": "Benjamin Price",
+    "url": "https://github.com/benjaminprice"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/benjaminprice/node-face-plus-plus/raw/master/LICENSE"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/benjaminprice/node-face-plus-plus/issues"
+  },
+  "homepage": "https://github.com/benjaminprice/node-face-plus-plus",
+  "maintainers": [
+    {
+      "name": "Benjamin Price",
+      "email": "ben@benprice.ca"
+    }
+  ],
+  "dependencies": {
+    "datauri": "^0.6.0",
+    "qs": "^2.4.1",
+    "request": "^2.54.0"
+  },
+  "devDependencies": {}
+}
