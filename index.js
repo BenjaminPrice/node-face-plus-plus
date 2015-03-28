@@ -1,2 +1,1 @@
-//module.exports = require('./lib/face-plus-plus');
-
+module.exports = require('./lib/face-plus-plus');
