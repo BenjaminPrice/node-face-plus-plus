@@ -1,11 +1,11 @@
 {
   "name": "face-plus-plus",
   "description": "Node client for faceplusplus.com API",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "faceplusplus",
     "face",
-    "facial recognition",
+    "facial-recognition",
     "facial"
   ],
   "repository": {
