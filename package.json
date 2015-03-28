@@ -1,7 +1,7 @@
 {
   "name": "face-plus-plus",
   "description": "Node client for faceplusplus.com API",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "faceplusplus",
     "face",

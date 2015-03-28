@@ -5,7 +5,7 @@
 
 [face-plus-plus]() is a node client for the [faceplusplus.com](http://faceplusplus.com)([CN](http://faceplusplus.com.cn)) API
 
-## Version: 0.0.2
+## Version: 0.0.3
 
 ### Installation via npm
     $ npm install face-plus-plus
